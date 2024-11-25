@@ -4,4 +4,12 @@ O projeto se trata da criação de um projeto para aprender a como utiliza o Git
 
 Para visualizar o projeto basta acessar o arquivo index.html e dar run no live server do VSCode.
 
+Lista de Tarefas Feitas
+Titulo✓
+Paragrafo✓
+Imagem✓
+Alteração da cor do titulo✓
+Alteração da cor do paragrafo✓
+Alteraçã do tamanho da imagem✓
+
 LINK: https://github.com/henrique32/ExemploHenrique
